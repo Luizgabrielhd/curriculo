@@ -74,3 +74,13 @@ ul{
 li{
     margin-bottom: 8px;
 }
+.project{
+    background-color: #f1f5f9;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.project h4{
+    color: #457b9d;
+    margin-bottom: 8px;
+}

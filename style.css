@@ -63,3 +63,14 @@ h1{
     border-bottom: 2px solid #a8dadc;
     padding-bottom: 8px;
 }
+.content-card p{
+    margin-bottom: 10px;
+    line-height: 1.6 ;
+}
+ul{
+    padding-left: 20px;
+
+}
+li{
+    margin-bottom: 8px;
+}

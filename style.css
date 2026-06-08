@@ -48,3 +48,18 @@ h1{
     margin: 0 auto 20px auto;
     line-height: 1.6;
 }
+.content-card{
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 16px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10ps rgba(0,0,0,0.1);
+}
+
+.content-card h3{
+    color: #1d3557;
+    margin-bottom: 15px;
+    font-size: 24px;
+    border-bottom: 2px solid #a8dadc;
+    padding-bottom: 8px;
+}
